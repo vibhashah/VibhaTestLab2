@@ -1,1 +1,10 @@
 # VibhaTestLab2
+
+How do you see the files changed within each commit from git log?
+Ans:-on commend line type git log--stat
+
+How do you see the contents of what changed within each file from the git log?
+Ans:-On commend line type git log --patch
+
+What does HEAD refer to in the context of git?
+Ans: - Refer to Master branch.
